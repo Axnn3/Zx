@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "axyzn:block/beacon",
+    "down": "axyzn:block/obsidian",
+    "up": "axyzn:block/beacon",
+    "north": "axyzn:block/glass",
+    "south": "axyzn:block/glass",
+    "east": "axyzn:block/glass",
+    "west": "axyzn:block/glass"
+  },
+
+}

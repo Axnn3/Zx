@@ -4,6 +4,7 @@ import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import test.azxyn.stuff.blocks.ModBlocks;
 import test.azxyn.stuff.items.ModItems;
 
 public class Axyzn implements ModInitializer {
@@ -13,5 +14,6 @@ public class Axyzn implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

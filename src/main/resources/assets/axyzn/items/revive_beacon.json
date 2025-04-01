@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "axyzn:item/revive_beacon"
+    "model": "axyzn:item/revive_beacon_block"
   }
 }

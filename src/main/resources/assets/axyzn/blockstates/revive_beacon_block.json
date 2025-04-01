@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "axyzn:block/revive_beacon_block"
+    }
+  }
+}
